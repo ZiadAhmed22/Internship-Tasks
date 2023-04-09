@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#predict the percentage of an student based on the no. of study hours
 # In[172]:
 
 
