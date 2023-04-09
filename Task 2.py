@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#Predict the optimum number of clusters and represent it visually
 # In[15]:
 
 
